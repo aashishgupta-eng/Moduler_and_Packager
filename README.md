@@ -243,10 +243,3 @@ Possible future improvements include:
 * Add a logging system
 * Add more random data generation options
 
-## Author
-
-**Aashish Gupta**
-
-## License
-
-This project is created for learning and educational purposes.
